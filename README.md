@@ -22,6 +22,6 @@ I chose the Waveshare RP-2040 Plus microcontroller because it has 4MB of memory.
 https://youtu.be/F8oxOOc2xko
 
 # Part 2 Programming and Software needed
-Coming soon
+Coming soon <br />
 #Part 3 Asthetics and 3D printing
 Coming soon
