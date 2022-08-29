@@ -12,7 +12,7 @@ Part 3 will explain the asthetics including 3D printing the body, creating the l
 
 # Part 1 Hardware
 For this project, you will need to order 2 different PCBs to create KITT.  The Gerber files needed to have them made are available in this repository.  You will need to upload these files (two files already in zip format) to your preferred PCB manufacturer.  I usually use JLBPCB as they tend to be the cheapest but feel free to use anyone. <br />
-You will also find a PDF called Parts which you can download and view. You'll need these parts to complete the PCBs.  Note that you should be comfortable in soldering as there are many components needed to be soldered onto the boards. Most of these parts can be ordered through websites like Adafruit, Amazon, Aliexpress, Mouser, etc... <br />
+You will also find a PDF called Parts which you can download and view. I'm not affiliated with any of the links.  They are there for your reference. You'll need these parts to complete the PCBs.  Note that you should be comfortable in soldering as there are many components needed to be soldered onto the boards. Most of these parts can be ordered through websites like Adafruit, Amazon, Aliexpress, Mouser, etc... <br />
 ## Equipment
 For equipment needed to build this part of the project, you'll need a soldering iron and stand, hot air gun, some shrink wrap for wires, wire cutters and wire stripper, solder, and solder paste. <br />
 ## Parts
