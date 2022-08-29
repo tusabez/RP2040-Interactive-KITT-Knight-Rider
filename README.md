@@ -23,5 +23,5 @@ https://youtu.be/F8oxOOc2xko
 
 # Part 2 Programming and Software needed
 Coming soon <br />
-# Part 3 Asthetics and 3D printing
+# Part 3 Aesthetics and 3D printing
 Coming soon
