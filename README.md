@@ -19,7 +19,10 @@ Notice the connectors between the two boards are 2mm and not the standard 2.54mm
 The RGB LEDs used for the indicator lights (Not the LED bars for KITT) are 5v versions.  Make sure you check before you buy as they also make them in 12v. (I ended up getting shipped the wrong voltage LEDs and it took me a few weeks of troubleshooting before I figured out why my LED board didn't work.) <br />
 I chose the Waveshare RP-2040 Plus microcontroller because it has 4MB of memory.  However, you can use any rp2040 based microcontroller as long as it has (A) 4MB or more of flash memory and (B) it is in the same form factor as the original Raspberry Pi Pico.  If you decide to go with a different microcontroller, make sure the pins line up exactly as the Pico with the same GPIO assignments or it will not work. <br />
 ## Part 1 video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F8oxOOc2xko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=F8oxOOc2xko"><img src="https://img.youtube.com/vi/F8oxOOc2xko/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
+
 
 # Part 2 Programming and Software needed
 Coming soon <br />
