@@ -1,7 +1,10 @@
 # RP2040-Interactive-KITT-Knight-Rider
 Create your own KITT from the TV show Knight Rider using an RP2040 Microcontroller  <br />
 YouTube video preview  <br />
-https://www.youtube.com/watch?v=hxRDTuXU2fs
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=hxRDTuXU2fs"><img src="https://img.youtube.com/vi/hxRDTuXU2fs/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
+
 ## Introduction
 Welcome to the tutorial to build your very own Interactive KITT from the TV show Knight Rider!  This will be divided into 3 parts.  Part 1 will explain the hardware and PCBs needed for the project. <br />
 Part 2 will explain the code and software needed to install on your RP2040 microcontroller. <br />
