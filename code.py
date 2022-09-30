@@ -119,6 +119,7 @@ try:
             magnitude = normalized_rms(samples)
             print((magnitude,))
             time.sleep(0.1)
+            # you may need to modify magnitude levels depending on how sensitive you want your microphone to be
             if magnitude > 170 and magnitude < 400:
                 time.sleep(4)
                 decoder.file = open(random.choice(intro), "rb")
