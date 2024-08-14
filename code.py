@@ -13,7 +13,7 @@ import math
 import audiobusio
 import random
 import digitalio
-import neopixel
+import neopixel # You'll need to get this module from CircuitPython library that matches the version of CircuitPython you are using. Make sure it's copied into your lib folder on your microcontroller.
 
 #Defining IR Sensor pin
 tracker = digitalio.DigitalInOut(board.GP0)
